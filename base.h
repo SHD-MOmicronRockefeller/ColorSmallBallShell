@@ -1,5 +1,5 @@
 #pragma once
-#define __mod_log__ 2
+#define __mod_log__ 1
 
 #if __mod_log__ == 1
     #define __DEBUG__

@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.30)
 
 if(NOT DEFINED TARGET_NAME)
-    set(TARGET_NAME "LoveMessage")
+    set(TARGET_NAME "ColorSmallBallShell")
 endif()
 
 project(${TARGET_NAME} LANGUAGES CXX)
